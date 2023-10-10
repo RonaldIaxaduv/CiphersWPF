@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HERf/JlGu5a09/X8kudlpWJ6l4LAuXuVepW/p0g0gaLhBI4BUGoagSFfYamhOFqLaMEQCc8HMLObEh33IGrnwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aaron\\Desktop\\Programmierung\\Studium\\C#\\Kryptologie LAB\\KryptologieLAB_01\\KryptologieLAB_01\\KryptologieLAB_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
