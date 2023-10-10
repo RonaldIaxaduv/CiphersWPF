@@ -1,5 +1,10 @@
 # About
-A collection of university projects implementing certain ciphers written in C# and using WPF for UIs. While not all that complex (aside from the AES code which took a little bit more work with the way I wanted it to look), it showcases the level cleanliness and documentation that I strive for when coding. 
+A collection of university projects implementing certain ciphers written in C# and using WPF for simple UIs. While not all that complex (aside from the AES code which took a little bit more work with the way I wanted it to look), it showcases the level cleanliness and documentation that I strive for when coding.
+
+Location of the .exe files (need to be executed inside their respective directory):
+Additive Cipher: `01_AdditiveCipher\KryptologieLAB_01\bin\Debug\netcoreapp3.1\KryptologieLAB_01.exe`
+Vigenère Cipher: `02_VigenèreCipher\KryptologieLAB_02\bin\Debug\netcoreapp3.1\KryptologieLAB_02.exe`
+AES: `03_AES\KryptologieLAB_03\bin\Debug\netcoreapp3.1\KryptologieLAB_03.exe`
 
 
 # Additive Cipher
